@@ -1,0 +1,20 @@
+{
+  "name": "arknights-pptmaker",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Conversational Arknights activity-theme PPT skill with editable layers and imagegen artwork.",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "test": "node --test tests/skill.test.mjs"
+  },
+  "dependencies": {
+    "pptxgenjs": "4.0.1",
+    "sharp": "0.35.5"
+  },
+  "devDependencies": {
+    "jszip": "3.10.1"
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "updated": "2026-10-29",
+  "canvas": {
+    "width": 1280,
+    "height": 720
+  },
+  "colorDisclaimer": "PPT adaptation values, not an official color specification",
+  "themes": [
+    {
+      "id": "interactive",
+      "name": "奇象巡展",
+      "defaultVersion": "2026 首期",
+      "recipe": "themes/interactive.md",
+      "reference": "https://cdn.ignoredone.cn/arknightsdesign/2026/0807/003.jpg",
+      "sample": "samples/interactive.jpg",
+      "status": "recipe-and-layered-sample",
+      "testedScope": "single-slide-style-and-editability",
+      "palette": {
+        "底色": "#F1F2EF",
+        "正文": "#171A1B",
+        "次字": "#62696B",
+        "青色": "#16C9D1",
+        "荧光黄": "#E4FA4E",
+        "洋红": "#E34E99",
+        "浅面": "#E0E4E3"
+      },
+      "official": "https://ak.hypergryph.com/news/8571",
+      "galleryAlbum": "2026/0807",
+      "referenceKind": "remote-source"
+    },
+    {
+      "id": "orange",
+      "name": "直到大地变成一颗酸橙",
+      "defaultVersion": "2026 首发",
+      "recipe": "themes/orange.md",
+      "reference": "https://cdn.ignoredone.cn/arknightsdesign/2026/0801/007.png",
+      "sample": "samples/orange.jpg",
+      "status": "recipe-and-layered-sample",
+      "testedScope": "single-slide-style-and-editability",
+      "palette": {
+        "纸底": "#FFF8E8",
+        "正文": "#234A63",
+        "次字": "#617D88",
+        "天蓝": "#6ABFDD",
+        "群青": "#246BA1",
+        "奶油黄": "#F3CE65",
+        "杏橙": "#DF9855"
+      },
+      "official": "https://ak.hypergryph.com/news/8571",
+      "galleryAlbum": "2026/0801",
+      "referenceKind": "remote-source"
+    },
+    {
+      "id": "football",
+      "name": "阵地足球锦标",
+      "defaultVersion": "2026 首期",
+      "recipe": "themes/football.md",
+      "reference": "https://cdn.ignoredone.cn/arknightsdesign/2026/0610/003.jpg",
+      "sample": "samples/football.jpg",
+      "status": "recipe-and-layered-sample",
+      "testedScope": "single-slide-style-and-editability",
+      "palette": {
+        "主蓝": "#2235F2",
+        "紫色": "#783FEF",
+        "白字": "#FFFFFF",
+        "深底": "#16184A",
+        "正文": "#20243C",
+        "场地绿": "#82C654",
+        "金色": "#D0A446"
+      },
+      "official": "https://ak.hypergryph.com/news/0701",
+      "galleryAlbum": "2026/0610",
+      "referenceKind": "remote-source"
+    },
+    {
+      "id": "witnesses",
+      "name": "众生行记",
+      "defaultVersion": "2025 首发",
+      "recipe": "themes/witnesses.md",
+      "reference": "https://cdn.ignoredone.cn/arknightsdesign/2025/0501/003.png",
+      "sample": "samples/witnesses.jpg",
+      "status": "recipe-and-layered-sample",
+      "testedScope": "single-slide-style-and-editability",
+      "palette": {
+        "纸底": "#F4F7F6",
+        "浅蓝": "#DDECF0",
+        "正文": "#254853",
+        "次字": "#68818B",
+        "蓝色": "#327EC0",
+        "金色": "#B6A478",
+        "深蓝": "#233E52"
+      },
+      "official": "https://ak.hypergryph.com/news/3062.html",
+      "galleryAlbum": "2025/0501",
+      "referenceKind": "remote-source"
+    },
+    {
+      "id": "vector",
+      "name": "矢量突破",
+      "defaultVersion": "初代 2024",
+      "recipe": "themes/vector.md",
+      "reference": "https://cdn.ignoredone.cn/arknightsdesign/2024/0926/003.png",
+      "sample": "samples/vector.jpg",
+      "status": "recipe-and-layered-sample",
+      "testedScope": "single-slide-style-and-editability",
+      "palette": {
+        "底色": "#E8E8E3",
+        "正文": "#252729",
+        "次字": "#676A67",
+        "紫色": "#8E4CF4",
+        "酸黄": "#DFE329",
+        "白色": "#FAFAF5",
+        "深紫": "#573287"
+      },
+      "official": "https://ak.hypergryph.com/news/3074.html",
+      "galleryAlbum": "2024/0926",
+      "otherVersions": [
+        {
+          "name": "#2 巫术之夜",
+          "status": "身份来源已收录，视觉尚需研究",
+          "url": "https://ak.hypergryph.com/news/7375"
+        },
+        {
+          "name": "#3 拟生态",
+          "status": "身份来源已收录，视觉尚需研究",
+          "url": "https://ak.hypergryph.com/news/1455"
+        }
+      ],
+      "referenceKind": "remote-source"
+    },
+    {
+      "id": "icebreaker",
+      "name": "促融共竞",
+      "defaultVersion": "#1",
+      "recipe": "themes/icebreaker.md",
+      "reference": "https://cdn.ignoredone.cn/arknightsdesign/2025/0317/003.png",
+      "sample": "samples/icebreaker.jpg",
+      "status": "recipe-and-layered-sample",
+      "testedScope": "single-slide-style-and-editability",
+      "palette": {
+        "底色": "#F1F2EF",
+        "正文": "#252729",
+        "次字": "#656C6E",
+        "红色": "#D82050",
+        "青色": "#31AFC0",
+        "荧光绿": "#BCE83B",
+        "浅面": "#DDE2DF"
+      },
+      "official": "https://ak.hypergryph.com/news/9616",
+      "galleryAlbum": "2025/0317",
+      "otherVersions": [
+        {
+          "name": "#2",
+          "status": "身份来源已收录，视觉尚需研究",
+          "url": "https://ak.hypergryph.com/news/0715"
+        }
+      ],
+      "referenceKind": "remote-source"
+    },
+    {
+      "id": "blacksteel",
+      "name": "不义之财",
+      "defaultVersion": "2023 首发",
+      "recipe": "themes/blacksteel.md",
+      "reference": "https://cdn.ignoredone.cn/arknightsdesign/2023/0901/004.jpg",
+      "sample": "samples/blacksteel.jpg",
+      "status": "recipe-and-layered-sample",
+      "testedScope": "single-slide-style-and-editability",
+      "palette": {
+        "深底": "#202624",
+        "浅底": "#EBEADB",
+        "正文": "#F1F0D9",
+        "次字": "#B7BBA8",
+        "酸黄": "#E1E83B",
+        "橄榄": "#747D43",
+        "墨黑": "#171D1B"
+      },
+      "official": "https://ak.hypergryph.com/news/2023085044.html",
+      "galleryAlbum": "2023/0901",
+      "referenceKind": "remote-source"
+    },
+    {
+      "id": "so-long-adele",
+      "name": "火山旅梦",
+      "defaultVersion": "2023 首发",
+      "recipe": "themes/so-long-adele.md",
+      "reference": "https://cdn.ignoredone.cn/arknightsdesign/2023/0723/cover.png",
+      "sample": "samples/so-long-adele.jpg",
+      "status": "recipe-and-layered-sample",
+      "testedScope": "single-slide-style-and-editability",
+      "palette": {
+        "纸底": "#F4E5C8",
+        "正文": "#254A43",
+        "次字": "#617269",
+        "珊瑚红": "#D95663",
+        "湖绿": "#279C97",
+        "粉云": "#E9B8CB",
+        "夜色": "#3E426E"
+      },
+      "official": "https://ak.hypergryph.com/news/2023075795",
+      "galleryAlbum": "2023/0723",
+      "referenceKind": "remote-source"
+    },
+    {
+      "id": "lone-trail",
+      "name": "孤星",
+      "defaultVersion": "2023 首发",
+      "recipe": "themes/lone-trail.md",
+      "reference": "https://cdn.ignoredone.cn/arknightsdesign/2023/0501/002.jpg",
+      "sample": "samples/lone-trail.jpg",
+      "status": "recipe-and-layered-sample",
+      "testedScope": "single-slide-style-and-editability",
+      "palette": {
+        "纸底": "#F2EDD8",
+        "浅面": "#E9E3C8",
+        "正文": "#242825",
+        "次字": "#777665",
+        "橙色": "#E8753C",
+        "薄荷": "#8EB8A6",
+        "赭黄": "#D6AE48",
+        "警示": "#A54D3D",
+        "细线": "#CFC8AD"
+      },
+      "official": "https://ak.hypergryph.com/news/2023043128.html",
+      "galleryAlbum": "2023/0501",
+      "referenceKind": "remote-source"
+    },
+    {
+      "id": "siracusano",
+      "name": "叙拉古人",
+      "defaultVersion": "2022 首发",
+      "recipe": "themes/siracusano.md",
+      "reference": "https://cdn.ignoredone.cn/arknightsdesign/2022/1023/cover.png",
+      "sample": "samples/siracusano.jpg",
+      "status": "recipe-and-layered-sample",
+      "testedScope": "single-slide-style-and-editability",
+      "palette": {
+        "深底": "#202526",
+        "银灰": "#B9BCB8",
+        "浅纸": "#E1DDCF",
+        "正文": "#EDEAE0",
+        "次字": "#B5BAB5",
+        "暗红": "#A83F36",
+        "旧金": "#9E8C62"
+      },
+      "official": "https://ak.hypergryph.com/news/2022103870",
+      "galleryAlbum": "2022/1023",
+      "referenceKind": "remote-source"
+    },
+    {
+      "id": "wanderer",
+      "name": "日暮寻路",
+      "defaultVersion": "2022 首发",
+      "recipe": "themes/wanderer.md",
+      "reference": "https://cdn.ignoredone.cn/arknightsdesign/2022/0902/cover.png",
+      "sample": "samples/wanderer.jpg",
+      "status": "recipe-and-layered-sample",
+      "testedScope": "single-slide-style-and-editability",
+      "palette": {
+        "浅纸": "#E8D4AC",
+        "正文": "#363B3A",
+        "次字": "#70684F",
+        "麦金": "#B69B62",
+        "锈红": "#B34C2D",
+        "深云": "#444C4D",
+        "高光": "#F4E7C6"
+      },
+      "official": "https://ak.hypergryph.com/news/2022086397",
+      "galleryAlbum": "2022/0902",
+      "referenceKind": "remote-source"
+    },
+    {
+      "id": "near-light",
+      "name": "长夜临光",
+      "defaultVersion": "2021 首发",
+      "recipe": "themes/near-light.md",
+      "reference": "https://cdn.ignoredone.cn/arknightsdesign/2021/1024/001.jpg",
+      "sample": "samples/near-light.jpg",
+      "status": "recipe-and-layered-sample",
+      "testedScope": "single-slide-style-and-editability",
+      "palette": {
+        "深底": "#171D2A",
+        "正文": "#F3EDD9",
+        "次字": "#BDC7C9",
+        "晨金": "#D7B769",
+        "浅纸": "#EFECDD",
+        "冷青": "#55BFC9",
+        "红色": "#B8464F"
+      },
+      "official": "https://ak.hypergryph.com/news/2021100428.html",
+      "galleryAlbum": "2021/1024",
+      "referenceKind": "remote-source"
+    },
+    {
+      "id": "dossoles",
+      "name": "多索雷斯假日",
+      "defaultVersion": "2021 首发",
+      "recipe": "themes/dossoles.md",
+      "reference": "https://cdn.ignoredone.cn/arknightsdesign/2021/0725/003.jpg",
+      "sample": "samples/dossoles.jpg",
+      "status": "recipe-and-layered-sample",
+      "testedScope": "single-slide-style-and-editability",
+      "palette": {
+        "纸底": "#F4F3ED",
+        "正文": "#202632",
+        "钴蓝": "#0649ED",
+        "湖蓝": "#2CBBD0",
+        "亮黄": "#F6D925",
+        "粉色": "#E35A91",
+        "绿色": "#349861"
+      },
+      "official": "https://ak.hypergryph.com/news/2021079658.html",
+      "galleryAlbum": "2021/0725",
+      "referenceKind": "remote-source"
+    },
+    {
+      "id": "who-is-real",
+      "name": "画中人",
+      "defaultVersion": "2021 首发",
+      "recipe": "themes/who-is-real.md",
+      "reference": "https://cdn.ignoredone.cn/arknightsdesign/2021/0128/cover.jpg",
+      "sample": "samples/who-is-real.jpg",
+      "status": "recipe-and-layered-sample",
+      "testedScope": "single-slide-style-and-editability",
+      "palette": {
+        "纸底": "#F2F1E8",
+        "正文": "#283E37",
+        "次字": "#697A6F",
+        "灰绿": "#849C8B",
+        "朱砂": "#B64739",
+        "浅墨": "#C9D2C4",
+        "白色": "#FAFAF2"
+      },
+      "official": null,
+      "galleryAlbum": "2021/0128",
+      "referenceKind": "remote-source"
+    }
+  ]
+}

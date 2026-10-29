@@ -1,0 +1,4 @@
+interface:
+  display_name: "明日方舟活动主题 PPTmaker"
+  short_description: "根据上传资料与活动风格调用 imagegen，制作文字可编辑、装饰可移动的主题 PPTX"
+  default_prompt: "使用 $arknights-pptmaker，未指定主题时先展示全部可选活动及简短风格供我选择，沿用已明确的主题，再确认缺失的总页数和图文比重，根据资料调用 imagegen 制作分层可编辑 PPTX。"
